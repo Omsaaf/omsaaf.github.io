@@ -13,7 +13,5 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing.
 ### Header 3
 - Bulleted
 - List
-```markdown
 
-
-Testing after the markdown
+```endmarkdown
